@@ -4,7 +4,5 @@ import {ghPages} from 'vite-plugin-gh-pages'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  // plugins: [react()],
-  base: 'Star',
-  plugins: [ghPages()],
+  plugins: [react()],
 })
