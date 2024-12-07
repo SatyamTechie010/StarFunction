@@ -1,0 +1,12 @@
+.star {
+    color: grey;  /* Default color for unselected stars */
+  }
+  
+  .on .star {
+    color: gold;  /* Color for selected or hovered stars */
+  }
+  
+  .off .star {
+    color: grey;  /* Color for unselected stars */
+  }
+  
